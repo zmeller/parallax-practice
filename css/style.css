@@ -1,0 +1,32 @@
+.slide{
+    height: 650px;
+}
+.slide-1{
+    background-image: url("img/pexels-francesco-ungaro-13633612.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.slide-2{
+    background-image: url("img/pexels-francesco-ungaro-13633612.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.slide-3{
+    background-image: url("img/pexels-francesco-ungaro-13633612.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.slide-4{
+    background-image: url("img/pexels-francesco-ungaro-13633612.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
